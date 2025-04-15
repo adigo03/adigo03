@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adigo03
 - 👀 I’m interested in artificial intelligence and data analytics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about llm and ai agents
+- 💞️ I’m looking to collaborate on ai agent systems
 - 📫 How to reach me ...
 
 <!---
